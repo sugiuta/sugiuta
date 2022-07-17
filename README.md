@@ -1,9 +1,9 @@
-# Welcome 
+# 😎 Welcome
 iOS / Jailbreak tweak developer. 
 <br>
 I'm from Japan and speak Japanese and English. Just doing Tweak development as a hobby.
 
-## I Mostly Write
+## 💻 I Mostly Write
 - Objective-C
 - Swift
 - JavaScript
