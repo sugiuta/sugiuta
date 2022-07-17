@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome 
+iOS / Jailbreak tweak developer. 
+<br>
+I'm from Japan and speak Japanese and English. Just doing Tweak development as a hobby.
+
+## I Mostly Write
+- Objective-C
+- Swift
+- JavaScript
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiuta&layout=compact&count_private=true&show_icons=true&theme=onedark" />
